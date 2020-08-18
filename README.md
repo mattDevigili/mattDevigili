@@ -5,6 +5,8 @@
 ![](https://img.shields.io/badge/DBMS-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DBMS-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 
+I am a Ph.D. student in Economics with an interest on natural language processing.
+
 ```javascript
 {
   name: "Matteo",
