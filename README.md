@@ -11,7 +11,7 @@ I am a Ph.D. student in Economics with an interest on natural language processin
 {
   name: "Matteo",
   lastName: "Devigili",
-  base: "London",
+  city: "London",
   programming: {
       languages: [Python],
       dbms: [MongoDB, PostgreSQL],
