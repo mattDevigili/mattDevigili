@@ -10,8 +10,6 @@
   name: "Matteo",
   lastName: "Devigili",
   base: "London",
-  position: "Ph.D.",
-  institution: "Cass Business School",
   code: [Python],
   dbms: [MongoDB, PostgreSQL],
   learning: [Javascript, R]
