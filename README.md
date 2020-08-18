@@ -9,7 +9,7 @@ I am a Ph.D. student in Economics with an interest on natural language processin
 
 
 <a href="https://github.com/mattDevigili/mattDevigili">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattDevigili&show_icons=true&theme=chartreuse-default&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattDevigili&show_icons=true&theme=chartreuse-default" />
 </a>
 <a href="https://github.com/mattDevigili/mattDevigili">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattDevigili&show_icons=true&line_height=27&count_private=true&theme=chartreuse-default" alt="Matteo's GitHub Stats" />
