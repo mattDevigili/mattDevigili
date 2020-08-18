@@ -10,9 +10,10 @@
   name: "Matteo",
   lastName: "Devigili",
   base: "London",
-  code: [Python],
+  programming: {
+  languages: [Python],
   dbms: [MongoDB, PostgreSQL],
-  learning: [Javascript, R]
+  learning: [Javascript, R] },
 }
 ```
 
