@@ -1,6 +1,6 @@
 ## Matteo Devigili
 
-I am a PhD student with a taste for NLP.
+I am a Ph.D. student in Economics with an interest on natural language processing.
 
 ### Tools
 
