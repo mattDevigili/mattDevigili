@@ -11,9 +11,10 @@
   lastName: "Devigili",
   base: "London",
   programming: {
-  languages: [Python],
-  dbms: [MongoDB, PostgreSQL],
-  learning: [Javascript, R] },
+      languages: [Python],
+      dbms: [MongoDB, PostgreSQL],
+      learning: [Javascript, R] 
+      }
 }
 ```
 
