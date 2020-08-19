@@ -19,7 +19,3 @@ I am a Ph.D. student in Economics with an interest on natural language processin
       }
 }
 ```
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattDevigili&show_icons=true&count_private=true&theme=graywhite&hide=prs,issues,contribs" />
-</p>
