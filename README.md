@@ -14,8 +14,7 @@ I am a Ph.D. student in Economics with an interest on natural language processin
   city: "London",
   programming: {
       languages: [Python],
-      dbms: [MongoDB, PostgreSQL],
-      learning: [JavaScript] 
+      dbms: [MongoDB, PostgreSQL]
       }
 }
 ```
