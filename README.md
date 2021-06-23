@@ -13,7 +13,7 @@ I am a Ph.D. student in Economics with an interest on natural language processin
   lastName: "Devigili",
   city: "London",
   programming: {
-      languages: [Python],
+      languages: [Python, R],
       dbms: [MongoDB, PostgreSQL]
       }
 }
