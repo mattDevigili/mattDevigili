@@ -11,7 +11,7 @@ I am a Ph.D. student in Management with an interest on natural language processi
 {
   name: "Matteo",
   lastName: "Devigili",
-  city: "London",
+  city: "Singapore",
   programming: {
       languages: [Python, R],
       dbms: [MongoDB, PostgreSQL]
